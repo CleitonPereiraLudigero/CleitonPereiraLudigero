@@ -1,4 +1,4 @@
-<h1>Ola!!! Meu nome é Cleiton , estou em busca de conhecimentos e humildemente contribuir e compartilhar com a plataforma ;D<h1><br>
+<h1>Ola!!! Oi eu sou o Cleiton <h1><br>
 <div align="left">
   <a href="https://github.com/CleitonPereiraLudigero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CleitonPereiraLudigero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
