@@ -1,4 +1,4 @@
-<h2>Oi eu sou o Cleiton :laughing: </h2></br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0591E8&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Me+chamo+Cleiton+Pereira+Ludigero;Tenho+28+anos;Resido+em+Osasco+SP,+Brasil;Graduando+em;Analise+e+Desenvolvimento+de+Sistemas;Pela+Anhanguera!+:%29)](https://git.io/typing-svg)
 
 <b>Technologies I'm learning :thought_balloon: :books: </b></br></br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Image" height="42" width="42" /> 
