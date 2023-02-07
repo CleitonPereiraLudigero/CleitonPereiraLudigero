@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Me+chamo+Cleiton+Pereira+Ludigero;Tenho+28+anos;Resido+em+Osasco+SP,+Brasil;Graduando+em;Analise+e+Desenvolvimento+de+Sistemas;Pela+Anhanguera!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1B98E0&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Me+chamo+Cleiton+Pereira+Ludigero;Tenho+28+anos;Resido+em+Osasco+SP,+Brasil;Graduando+em;Analise+e+Desenvolvimento+de+Sistemas;Pela+Anhanguera!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CleitonPereiraLudigero&show_icons=true&count_private=true&hide_border=true&title_color=B0C4DE&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Cleiton Pereira Ludigero github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonPereiraLudigero&layout=compact&hide_border=true&title_color=B0C4DE&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CleitonPereiraLudigero&show_icons=true&count_private=true&hide_border=true&title_color=1B98E0&icon_color=D98719&text_color=c9d1d9&bg_color=0d1117" alt="Cleiton Pereira Ludigero github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonPereiraLudigero&layout=compact&hide_border=true&title_color=1B98E0&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 
