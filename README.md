@@ -13,6 +13,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="Image" height="42" width="42" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Image" height="42" width="42" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Image" height="42" width="42" />
+ <img src="https://img.icons8.com/?size=48&id=7gdY5qNXaKC0&format=png" alt="Image" height="42" width="42" />
           
 
 <div align="center">
