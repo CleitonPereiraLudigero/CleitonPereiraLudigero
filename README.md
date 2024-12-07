@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1B98E0&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+nome+é+Cleiton+Pereira+Ludigero;Mas+pode+me+chamar+de+Cleitão!;Tenho+30+anos;Resido+em+SP,+Brasil;Formado+em;Análise+e+Desenvolvimento+de+Sistemas;+com+ênfase+em+desenvolvimento+mobile+e+CyberSecurity!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1B98E0&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+nome+é+Cleiton+Pereira+Ludigero;Mas+pode+me+chamar+de+Cleitão!;Tenho+30+anos;Resido+em+SP,+Brasil;Formado+em;Análise+e+Desenvolvimento+de+Sistemas;+Com+ênfase+em+desenvolvimento+mobile;+e+CyberSecurity!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
