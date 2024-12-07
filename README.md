@@ -7,13 +7,14 @@
 </div>
 
 
-<b>Tecnologias que estou aprendendo :thought_balloon::books:</b></br></br>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Image" height="42" width="42" /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Image" height="42" width="42" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="Image" height="42" width="42" />
+<b>Tecnologias :thought_balloon::books:</b></br></br>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Image" height="42" width="42"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Image" height="42" width="42" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="Image" height="42" width="42" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="Image" height="42" width="42" />
+ <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="Image" height="42" width="42" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Image" height="42" width="42" />
- <img src="https://img.icons8.com/?size=48&id=7gdY5qNXaKC0&format=png" alt="Image" height="42" width="42" />
+ 
           
 
 <div align="center">
