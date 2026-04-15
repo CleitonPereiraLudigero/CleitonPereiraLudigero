@@ -1,19 +1,5 @@
 
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CleitonPereiraLudigero&show_icons=true&count_private=true&hide_border=true&title_color=1B98E0&icon_color=D98719&text_color=c9d1d9&bg_color=0d1117" alt="Cleiton Pereira Ludigero github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonPereiraLudigero&layout=compact&hide_border=true&title_color=1B98E0&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-
-<b>Tecnologias :thought_balloon::books:</b></br></br>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Image" height="42" width="42"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Image" height="42" width="42" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="Image" height="42" width="42" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="Image" height="42" width="42" />
- <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="Image" height="42" width="42" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Image" height="42" width="42" />
  
           
 
